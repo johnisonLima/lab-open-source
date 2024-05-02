@@ -3,8 +3,6 @@ Olá!! 👋🏾
 Sou Johnison Lima, acadêmico de Sistemas de Informação no IFBA (Instituto Federal de Educação, Ciência e Tecnologia da Bahia).
 ![Logo](https://i.ibb.co/zsPNZH2/logo2.jpg)
 
-
-
 ## ⚡ Tecnologias
 
 Backend: 
